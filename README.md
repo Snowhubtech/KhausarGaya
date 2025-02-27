@@ -11,12 +11,14 @@
     <div class="container">
         <h2>Login</h2>
         <form id="loginForm">
-            <input type="text" id="username" placeholder="Username" required>
-            <input type="password" id="password" placeholder="Password" required>
+            <label for="username">Username</label>
+            <input type="text" id="username" placeholder="Enter Username" required>
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="Enter Password" required>
             <button type="submit">Login</button>
         </form>
     </div>
-    <script>
+        <script>
         document.getElementById('loginForm').addEventListener('submit', function(event) {
             event.preventDefault();
             window.location.href = 'main.html';
@@ -24,6 +26,7 @@
     </script>
 </body>
 </html>
+
 <!-- Main Page (main.html) -->
 <!DOCTYPE html>
 <html lang="en">
@@ -40,10 +43,24 @@
     <section>
         <img src="WhatsApp Image 2025-02-27 at 4.55.38 AM.jpeg" alt="Profile Image">
         <p>Enjoy a personalized experience with multimedia elements.</p>
+        <video controls>
+            <source src="WhatsApp Video 2025-02-27 at 4.57.03 AM.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </section>
     <nav>
         <a href="about.html">About/Contact</a>
     </nav>
+        <section>
+        <h2>Leave a Comment</h2>
+        <form>
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Enter your email" required>
+            <label for="comment">Comment</label>
+            <textarea id="comment" placeholder="Write your comment here" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </section>
 </body>
 </html>
 
