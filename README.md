@@ -5,7 +5,7 @@ Index:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Page</title>
+    <title>Web Based Technologies and Multimedia</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
