@@ -1,4 +1,4 @@
-<!DOCTYPE Khausar Nura Gaya CMM/23/INF/01114 html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +37,9 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to My Website</h1> 
+                <h1>Khausar Nura Gaya</h1>
+                        <h1>CMM/23/INF/01114</h1>
     </header>
     <section>
         <img src="WhatsApp Image 2025-02-27 at 4.55.38 AM.jpeg" alt="Profile Image">
