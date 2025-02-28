@@ -78,7 +78,7 @@
         <h1>About Me</h1>
     </header>
     <section>
-        <p>This is a brief description about me.</p>
+        <p>I'm Khausar Nura Gaya, a 19-year-old makeup artist from Kano, Nigeria, who attended Khadija Memorial College for secondary education and is now studying at Bayero University, with a passion for beauty, creativity, and self-expression, and I'm lovingly known as the last born in my family.</p>
     </section>
     <h2>Contact</h2>
     <form>
