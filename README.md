@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE Khausar Nura Gaya CMM/23/INF/01114 html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
