@@ -1,4 +1,3 @@
-# KhausarGaya
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +17,7 @@
             <button type="submit">Login</button>
         </form>
     </div>
-        <script>
+    <script>
         document.getElementById('loginForm').addEventListener('submit', function(event) {
             event.preventDefault();
             window.location.href = 'main.html';
@@ -43,15 +42,15 @@
     <section>
         <img src="WhatsApp Image 2025-02-27 at 4.55.38 AM.jpeg" alt="Profile Image">
         <p>Enjoy a personalized experience with multimedia elements.</p>
-        <video controls>
-            <source src="WhatsApp Video 2025-02-27 at 4.57.03 AM.mp4" type="video/mp4">
+        <video controls width="600">
+            <source src="WhatsApp Video 2025-02-27 at 4.57.03 AM.webm" type="video/webm">
             Your browser does not support the video tag.
         </video>
     </section>
     <nav>
         <a href="about.html">About/Contact</a>
     </nav>
-        <section>
+    <section>
         <h2>Leave a Comment</h2>
         <form>
             <label for="email">Email</label>
@@ -78,7 +77,7 @@
         <h1>About Me</h1>
     </header>
     <section>
-        <p>I'm Khausar Nura Gaya, a 19-year-old makeup artist from Kano, Nigeria, who attended Khadija Memorial College for secondary education and is now studying at Bayero University, with a passion for beauty, creativity, and self-expression, and I'm lovingly known as the last born in my family.</p>
+        <p>I'm Khausar Nura Gaya, a 19-year-old makeup artist from Kano, Nigeria, who attended Khadija Memorial College for secondary education and is now studying at Bayero University. I have a passion for beauty, creativity, and self-expression, and I'm lovingly known as the last born in my family.</p>
     </section>
     <h2>Contact</h2>
     <form>
@@ -89,35 +88,3 @@
     </form>
 </body>
 </html>
-
-<!-- CSS File (styles.css) -->
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f4;
-}
-.container {
-    width: 300px;
-    margin: auto;
-    padding: 20px;
-    background: white;
-    border-radius: 10px;
-}
-input, button, textarea {
-    display: block;
-    width: 100%;
-    margin: 10px 0;
-    padding: 10px;
-}
-button {
-    background-color: #007BFF;
-    color: white;
-    border: none;
-}
-button:hover {
-    background-color: #0056b3;
-}
-nav a {
-    display: block;
-    margin: 10px;
-}
