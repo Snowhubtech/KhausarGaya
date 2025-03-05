@@ -1,9 +1,10 @@
+<!-- Login Page (index.html) -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personalized Website</title>
+    <title>Login</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -37,9 +38,9 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1> 
-                <h1>Khausar Nura Gaya</h1>
-                        <h1>CMM/23/INF/01114</h1>
+        <h1>Welcome to My Website</h1>
+        <h2>Khausar Nura Gaya</h2>
+        <h3>CMM/23/INF/01114</h3>
     </header>
     <section>
         <img src="WhatsApp Image 2025-02-27 at 4.55.38 AM.jpeg" alt="Profile Image">
@@ -52,16 +53,6 @@
     <nav>
         <a href="about.html">About/Contact</a>
     </nav>
-    <section>
-        <h2>Leave a Comment</h2>
-        <form>
-            <label for="email">Email</label>
-            <input type="email" id="email" placeholder="Enter your email" required>
-            <label for="comment">Comment</label>
-            <textarea id="comment" placeholder="Write your comment here" required></textarea>
-            <button type="submit">Send</button>
-        </form>
-    </section>
 </body>
 </html>
 
